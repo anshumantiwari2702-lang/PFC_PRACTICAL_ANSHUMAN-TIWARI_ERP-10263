@@ -2,7 +2,6 @@
 #include<stdio.h>
 int main()
 {
-  //anuj kumar singh 10250
   char i,j;
    for(i=65;i<=68;i++)
     {
