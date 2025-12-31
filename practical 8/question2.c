@@ -2,7 +2,6 @@
 #include<stdio.h>
 int main()
 {
-    //anuj kumar singh 10250
     int n;
     printf("enter a number");
     scanf("%d",&n);
